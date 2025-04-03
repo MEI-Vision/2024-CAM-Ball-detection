@@ -139,3 +139,4 @@
 ## 外部依赖
 
 ## 关于作者
+致谢此代码的主要贡献者@FKSJDSCZ（主页：https://github.com/FKSJDSCZ/USTB_MEI_Camera）
